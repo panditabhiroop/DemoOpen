@@ -1,0 +1,3 @@
+[submodule "Subdirectory1/--force"]
+	path = Subdirectory1/--force
+	url = https://github.com/panditabhiroop/DemoConnect
